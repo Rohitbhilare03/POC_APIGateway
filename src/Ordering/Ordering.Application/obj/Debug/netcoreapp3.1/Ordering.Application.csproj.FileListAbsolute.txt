@@ -1,0 +1,14 @@
+D:\Try\APIGateway\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.deps.json
+D:\Try\APIGateway\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.dll
+D:\Try\APIGateway\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.pdb
+D:\Try\APIGateway\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csprojAssemblyReference.cache
+D:\Try\APIGateway\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfoInputs.cache
+D:\Try\APIGateway\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfo.cs
+D:\Try\APIGateway\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.dll
+D:\Try\APIGateway\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.pdb
+D:\Try\APIGateway\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+D:\Try\APIGateway\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+D:\Try\APIGateway\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+D:\Try\APIGateway\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+D:\Try\APIGateway\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.CoreCompileInputs.cache
+D:\Try\APIGateway\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.CopyComplete

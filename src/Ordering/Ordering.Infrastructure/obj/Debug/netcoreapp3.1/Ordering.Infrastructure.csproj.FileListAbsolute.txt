@@ -1,0 +1,15 @@
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.deps.json
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csprojAssemblyReference.cache
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfoInputs.cache
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfo.cs
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.runtimeconfig.json
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.runtimeconfig.dev.json
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.genruntimeconfig.cache
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csproj.CopyComplete
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+D:\Try\APIGateway\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
