@@ -60,3 +60,14 @@ D:\Try\APIGateway\bin\Debug\Ordering.API.pdb
 D:\Try\APIGateway\bin\Debug\Ordering.Infrastructure.pdb
 D:\Try\APIGateway\bin\Debug\Ordering.Core.pdb
 D:\Try\APIGateway\bin\Debug\Ordering.Application.pdb
+D:\Try\APIGateway\bin\Debug\Ocelot.json
+D:\Try\APIGateway\bin\Debug\OcelotAPIGateway.exe
+D:\Try\APIGateway\bin\Debug\OcelotAPIGateway.dll
+D:\Try\APIGateway\bin\Debug\Ocelot.dll
+D:\Try\APIGateway\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Try\APIGateway\bin\Debug\FluentValidation.dll
+D:\Try\APIGateway\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Try\APIGateway\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Try\APIGateway\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\Try\APIGateway\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Try\APIGateway\bin\Debug\OcelotAPIGateway.pdb

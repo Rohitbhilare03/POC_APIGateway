@@ -1,0 +1,92 @@
+{
+  "ReRoutes": [
+    //Catelog API
+    {
+      "DownstreamPathTemplete": "/api/v1/Catalog",
+      "DownstreamPathScheme": "http",
+      "DownstreamPathHostAndPorts": [
+        {
+          "Host": "catalogapi",
+          "Port": "80"
+        }
+      ],
+      "UpstreamPathTemplete": "/Catalog",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+    },
+    {
+      "DownstreamPathTemplete": "/api/v1/Catalog/{id}",
+      "DownstreamPathScheme": "http",
+      "DownstreamPathHostAndPorts": [
+        {
+          "Host": "catalogapi",
+          "Port": "80"
+        }
+      ],
+      "UpstreamPathTemplete": "/Catalog/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplete": "/api/v1/Catalog/GetProductByCategory/{category}",
+      "DownstreamPathScheme": "http",
+      "DownstreamPathHostAndPorts": [
+        {
+          "Host": "catalogapi",
+          "Port": "80"
+        }
+      ],
+      "UpstreamPathTemplete": "/Catalog/GetProductByCategory/{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    //Basket API
+    {
+      "DownstreamPathTemplete": "/api/v1/Basket",
+      "DownstreamPathScheme": "http",
+      "DownstreamPathHostAndPorts": [
+        {
+          "Host": "basketapi",
+          "Port": "80"
+        }
+      ],
+      "UpstreamPathTemplete": "/Basket",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+    {
+      "DownstreamPathTemplete": "/api/v1/Basket/{userName}",
+      "DownstreamPathScheme": "http",
+      "DownstreamPathHostAndPorts": [
+        {
+          "Host": "basketapi",
+          "Port": "80"
+        }
+      ],
+      "UpstreamPathTemplete": "/Basket/{userName}",
+      "UpstreamHttpMethod": [ "Delete" ]
+    },
+    {
+      "DownstreamPathTemplete": "/api/v1/Basket/Checkout",
+      "DownstreamPathScheme": "http",
+      "DownstreamPathHostAndPorts": [
+        {
+          "Host": "basketapi",
+          "Port": "80"
+        }
+      ],
+      "UpstreamPathTemplete": "/Basket/Checkout",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      //Ordering
+      "DownstreamPathTemplete": "/api/v1/Order",
+      "DownstreamPathScheme": "http",
+      "DownstreamPathHostAndPorts": [
+        {
+          "Host": "orderingapi",
+          "Port": "80"
+        }
+      ],
+      "UpstreamPathTemplete": "/Order",
+      "UpstreamHttpMethod": [ "GET" ]
+    }
+
+  ]
+}
